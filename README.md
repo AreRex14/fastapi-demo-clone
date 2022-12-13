@@ -10,7 +10,7 @@ The requirements include:
 Found in _requirements.txt_
 
 ## Setup
-1. Have Python3
+1. Have __Python3__
 2. `python -m pip install -r requirements.txt`
 
 Trigger Configuration:
