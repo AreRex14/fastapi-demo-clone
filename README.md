@@ -12,7 +12,7 @@ Found in Requirements.txt
 ## Setup
 
 Trigger Configuration:
-python -m uvicorn main:app --reload --host 0.0.0.0 --port 8080
+`python -m uvicorn main:app --reload --host 0.0.0.0 --port 8080`
 
 
 App specific code:
