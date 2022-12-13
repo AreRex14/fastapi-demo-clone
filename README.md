@@ -7,9 +7,11 @@ The requirements include:
 * fastAPI
 * uvicorn
 
-Found in Requirements.txt
+Found in _requirements.txt_
 
 ## Setup
+1. Have Python3
+2. `python -m pip install -r requirements.txt`
 
 Trigger Configuration:
 `python -m uvicorn main:app --reload --host 127.0.0.1 --port 8080`
